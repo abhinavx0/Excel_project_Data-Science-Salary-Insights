@@ -76,7 +76,7 @@ Feel free to **fork** this repo and submit a **pull request**.
 ---
 
 ## 📬 **Contact**
-**Author:** Abhinav Ghosh  
+**Author:** Abhinav Om  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavom)  
 📧 Email: omabhinav111@gmail.com
 
